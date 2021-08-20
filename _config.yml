@@ -35,10 +35,11 @@ instagram_username: supunvindula
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 # theme: minima
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-include-cache
